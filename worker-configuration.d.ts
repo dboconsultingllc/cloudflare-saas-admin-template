@@ -3,7 +3,7 @@
 // Runtime types generated with workerd@1.20250617.0 2025-04-01 nodejs_compat
 declare namespace Cloudflare {
 	interface Env {
-		EXAMPLE_VALUE: "example_value";
+		EXAMPLE_VALUE: "anothertest";
 		DB: D1Database;
 		CUSTOMER_WORKFLOW: Workflow;
 	}
